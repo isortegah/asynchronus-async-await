@@ -1,0 +1,27 @@
+{
+  "name": "asynchronus-async-await",
+  "version": "1.0.0",
+  "description": "Ejemplos de uso de async y await",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isortegah/asynchronus-async-await.git"
+  },
+  "keywords": [
+    "asynchronus",
+    "async",
+    "await"
+  ],
+  "author": "ISORTEGAH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isortegah/asynchronus-async-await/issues"
+  },
+  "homepage": "https://github.com/isortegah/asynchronus-async-await#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
